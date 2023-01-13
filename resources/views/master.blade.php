@@ -11,12 +11,12 @@
      <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     <style>
-        .bg-image{
+        /* .bg-image{
             background-color: #8BC43F;
-        }
+        } */
         .background-image
         {
-            /* background-image: url('images/background.jpg'); */
+            background-image: url('images/background.jpg');
             background-color: #8BC43F ;
 ;
             background-position: center center;
