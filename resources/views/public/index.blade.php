@@ -97,5 +97,27 @@ border-gray-200 mt-10">
             <img src="images/laptopp.jpg" width="700" alt="">
         </div>
     </div>
+    <div class="sm:grid grid-cols-2 w-4/5 m-auto mt-5">
+        <div class="flex bg-yellow-700 text-gray-100 pt-10">
+            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+                <span class="uppercase text-xs">
+                    PHP
+                </span>
+
+                <h3 class="text-xl font-bold py-10">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas necessitatibus dolorum error culpa laboriosam. Enim voluptas earum repudiandae consequuntur ad? Expedita labore aspernatur facilis quasi ex? Nemo hic placeat et?
+                </h3>
+
+                <a
+                    href="/blog"
+                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    Find Out More
+                </a>
+            </div>
+        </div>
+        <div>
+            <img src="images/laptopp.jpg" width="700" alt="">
+        </div>
+    </div>
 
 @endsection
