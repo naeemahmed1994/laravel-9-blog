@@ -11,14 +11,19 @@
      <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     <style>
+        .bg-image{
+            background-color: #8BC43F;
+        }
         .background-image
         {
-            background-image: url('images/background.jpg');
+            /* background-image: url('images/background.jpg'); */
+            background-color: #8BC43F ;
+;
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
-            height: 600px;
+            height: 250px;
         }
     </style>
     <script src="https://cdn.tailwindcss.com"></script>

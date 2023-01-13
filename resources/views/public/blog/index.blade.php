@@ -1,11 +1,15 @@
 @extends('master')
 
 @section('content')
-<div class="w-4/5 m-auto text-center">
-    <div class="py-16 border-b border-gray-200">
+<div class="background-image m-auto text-center ">
+    <div class="py-16">
         <h1 class="text-6xl">
-            Blog Posts
+            Digital Marketing
         </h1>
+    </div>
+    <div class="text-center text-gray-700 py-2
+            px-4 font-bold text-xl">
+            Blog Details
     </div>
 </div>
 
